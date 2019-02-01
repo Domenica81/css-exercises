@@ -1,0 +1,19 @@
+body {
+  background-color:yellow;
+  color: blue;
+
+  font-family: sans-serif;   
+}
+
+.detailed {
+  color: violet;
+}
+/*
+ 10=1600px
+ 1.25=20px
+ 1.5=24px
+ 1=16px
+ .5=8psx
+ .25=4px
+ .125=2px
+ */
