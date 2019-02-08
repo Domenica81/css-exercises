@@ -1,0 +1,38 @@
+body {
+    background-color:#00CC33;
+    color:white;
+    font-family: sans-serif;
+    text-align:left;
+    font-style: normal;
+}
+
+img {
+    position: center; 
+    width:50;
+  }
+
+/* #EF3F3F2  #FF0000  
+colori vivaci:green #FBCCF00 viola 9900CC*/
+
+h1,h2 {
+    text-align: center;   
+}
+
+h1{
+ font-size: 50px;
+ text-transform: uppercase;
+}
+.specialParagraph {
+    font-weight:lighter ;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    }
+
+a:hover {
+    background-color:white;
+  } 
+  .detailed {
+      color: blue;
+  }
